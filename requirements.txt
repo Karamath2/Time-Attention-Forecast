@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+torch>=1.11
+torchvision
+statsmodels
+tqdm
+optuna
+seaborn
